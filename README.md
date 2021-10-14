@@ -16,4 +16,7 @@ $ git status
 5. Do a git pull to pull the latest.
 $ git pull origin main
 
+6. Check the log
+$ git log --oneline
+
 ```
